@@ -1,0 +1,12 @@
+.rvmrc
+.powrc
+public/.DS_Store
+.bundle
+db/*.sqlite3
+log/*.log
+tmp/
+.sass-cache/
+_notes
+coverage/
+public/system
+config/database.yml
