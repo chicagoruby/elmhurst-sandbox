@@ -1,0 +1,7 @@
+Elmhurst Sandbox
+===
+
+Experimental repo created during a discussion about skill-building at
+the Elmurst meeting. Date: Sat, Sept 15, 2012.
+
+
