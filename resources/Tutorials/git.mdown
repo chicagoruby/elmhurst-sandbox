@@ -13,3 +13,5 @@
 * Github's own [boot camp](https://help//github.com/categories/54/articles)
 
 * _Pro Git_ [online book](http://git-scm.com/book)
+
+* [git ready](http://gitready.com) : learn git one commit at a time
