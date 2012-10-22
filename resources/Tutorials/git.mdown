@@ -1,0 +1,15 @@
+#Git - Assorted help for the beginner and beyond
+
+* The Deservedly Famous [Michael Hartl tutorial](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book)
+
+* See chapter 1.3 "_[Version Control with Git](http://shop.oreilly.com/product/9780596520137.do)_"
+: It talks about both your local git installation and github, with a nice discussion of why you want to use it.
+
+* Jason Gube compiles a [list of good tutorials here](http://sixrevisions.com/resources/git-tutorials-beginners)
+: Betcha can find something that helps you in that list.
+
+* And there is always the [official git documentation](http://git.scm.com/documentation)
+
+* Github's own [boot camp](https://help//github.com/categories/54/articles)
+
+* _Pro Git_ [online book](http://git-scm.com/book)
