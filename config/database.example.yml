@@ -1,0 +1,15 @@
+global: &global
+  adapter: postgresql
+  encoding: unicode
+  min_messages: warning
+  password:
+  pool: 5
+  username: username
+
+development:
+  database: elmhurst_sandbox_development
+  <<: *global
+
+test:
+  database: elmhurst_sandbox_test
+  <<: *global
